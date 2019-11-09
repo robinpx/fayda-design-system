@@ -1,0 +1,8 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family:"ZCOOL QingKe HuangYou", "DM Sans", sans-serif;
+}
+canvas {
+  display: block;
+}
